@@ -4,7 +4,7 @@ const App =()=> {
   return (
     <div className="App">
      <h1> Images Gallery</h1>
-     <Headers title="Acess title Images" p="Hello everyone"></Headers>
+     <Headers title="Acess title Images"></Headers>
     </div>
   );
 }
