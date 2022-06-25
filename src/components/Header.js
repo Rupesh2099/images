@@ -5,7 +5,7 @@ const Headers = ({title})=>{
     //const {title}=props;
     return(
     
-        <Navbar bg="dark" expand="lg">
+        <Navbar bg="light" expand="lg">
  
             <Navbar.Brand href="">{title}</Navbar.Brand>
     
